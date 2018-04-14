@@ -1,8 +1,7 @@
-test
-<p>
-  <div></div>
-</p>
-
-<asdfasdf></asdfasdf>
-<asdfasdf></asdfasdf>
-<asdfasdf></asdfasdf>
+-ide-haskell
+-ide-haskell-repl
+-linter-hllint
+-linter
+-language-haskell
+-haskell-ghc-mod
+-autocomplete-haskel
